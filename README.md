@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Antônio Sérgio, and I'm from Brazil (🇧🇷). I've been working as software developer since 2014.
+
+Would you like to find me?
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/antoniosergiojunior)
+
+
 <!--
 **antoniosergiojr/antoniosergiojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
