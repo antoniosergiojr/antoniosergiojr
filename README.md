@@ -4,7 +4,7 @@ My name is Antônio Sérgio, and I'm from Brazil (🇧🇷). I've been working a
 
 Would you like to find me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antoniosergiojr)](https://www.linkedin.com/in/antoniosergiojr)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoniosergiojr)
 
 
 <!--
